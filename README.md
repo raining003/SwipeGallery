@@ -1,5 +1,12 @@
 # 刷相册 · SwipeGallery
 
+<p align="center">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License">
+  <img src="https://img.shields.io/badge/platform-Android%2011%2B-green.svg" alt="Android 11+">
+  <img src="https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF.svg" alt="Kotlin">
+  <img src="https://img.shields.io/badge/minSdk-30-blue.svg" alt="minSdk 30">
+</p>
+
 把相册变成一条可以"刷"的信息流：上下滑翻页，底部两个按钮决定 **删除** 还是 **留下**，滑过去就算 **跳过**。
 
 已经处理过的照片不会再出现。适合攒了几千张照片、一直懒得清理的人。
