@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+**/build/
+local.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.hprof
+captures/
+
+# Kotlin
+.kotlin/
+
+# 打包产物（走 GitHub Releases，不进仓库）
+*.apk
+*.aab
+_artifacts/
+
+# 系统文件
+.DS_Store
+Thumbs.db
